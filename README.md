@@ -2,7 +2,11 @@
 <h3 align="center">A passionate Mernstack developer from India</h3>
 
 
+<p align="left" style="marginTop:"20px"> <img src="https://komarev.com/ghpvc/?username=riyazo4&label=Profile%20views&color=0e75b6&style=flat" alt="riyazo4" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyazo4" alt="riyazo4" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🔭 I’m currently working on Brototype **Circle up**
 
 - 👨‍💻 All of my projects are available at [https://riyazo4.github.io/Personal/](https://riyazo4.github.io/Personal/)

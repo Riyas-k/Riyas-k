@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riyas k</h1>
+<h1 align="center">Hi 👋, I'm Riyas </h1>
 <h3 align="center">A passionate Mernstack developer from India</h3>
 
 

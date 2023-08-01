@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riyas k</h1>
 <h3 align="center">A passionate Mernstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyazo4&label=Profile%20views&color=0e75b6&style=flat" alt="riyazo4" /> </p>
+<p align="left" style="marginTop:"20px"> <img src="https://komarev.com/ghpvc/?username=riyazo4&label=Profile%20views&color=0e75b6&style=flat" alt="riyazo4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyazo4" alt="riyazo4" /></a> </p>
 
